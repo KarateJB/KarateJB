@@ -1,4 +1,6 @@
-### Hi there 👋
+### I am a Technical Project Manager, Web developer, Painter, Tricker and biggest Star Wars fan
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKczgAbF8RI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
 **KarateJB/KarateJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
