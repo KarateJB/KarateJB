@@ -1,7 +1,11 @@
-### I am a Technical Project Manager, Web developer, Painter, Tricker and biggest Star Wars fan
+#### Hi, I am karatejb, I love coding, tricking and painting.
+
+You can find me on my [Youtube Channel](https://youtu.be/KKczgAbF8RI "My Youtube Channel), [Blogs](https://karatejb.blogspot.com/), [Stackoverflow](https://stackoverflow.com/users/7045253/the-force-jb) or Linkedin(https://www.linkedin.com/in/karatejb/).
+
 
 [![karatejb](https://1.bp.blogspot.com/-n3cWk1cdmcM/Xygl_u3YjAI/AAAAAAAAH6g/cuLTgOpyJK42MRmqOVG2Ki8GZWwi_wbjACLcBGAsYHQ/s400/TheForceStudio.jpg)](https://youtu.be/KKczgAbF8RI "My Youtube Channel")
 
+#### Stay positive, stay flying!
 
 <!--
 **KarateJB/KarateJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
