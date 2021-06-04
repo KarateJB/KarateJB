@@ -3,7 +3,8 @@
 You can find me on my [Blogs](https://karatejb.blogspot.com/), [Stackoverflow](https://stackoverflow.com/users/7045253/the-force-jb) or [Linkedin](https://www.linkedin.com/in/karatejb/).
 
 
-![karatejb](https://1.bp.blogspot.com/-n3cWk1cdmcM/Xygl_u3YjAI/AAAAAAAAH6g/cuLTgOpyJK42MRmqOVG2Ki8GZWwi_wbjACLcBGAsYHQ/s400/TheForceStudio.jpg)
+![karatejb](https://1.bp.blogspot.com/-Cr39kVeIZBw/YLnX-GmULSI/AAAAAAAAIWU/c-kCkKGTMmgHzK0pnoIxS5vDLRDwXPvswCLcBGAsYHQ/s220/karatejb.jpg)
+<!-- ![karatejb](https://1.bp.blogspot.com/-n3cWk1cdmcM/Xygl_u3YjAI/AAAAAAAAH6g/cuLTgOpyJK42MRmqOVG2Ki8GZWwi_wbjACLcBGAsYHQ/s400/TheForceStudio.jpg) -->
 
 #### Stay positive, stay flying!
 
