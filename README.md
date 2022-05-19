@@ -7,7 +7,7 @@ You can find me on my [Blogs](https://karatejb.blogspot.com/), [Stackoverflow](h
 <table><tr>
   <td>
 <p align="center">
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=karatejb&show_icons=true&locale=en" alt="karatejb" /></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=karatejb" alt="karatejb" /></p>
 </p>
   </td>
   <td>
