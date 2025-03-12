@@ -5,7 +5,6 @@
  
 <p align="center">Stay positive, stay flying!</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karatejb&" alt="karatejb" /></p>
-<div align="center">
-    <img src="assets/jb-katana.gif" style="height:50%;width:50%"/>
+<div id="gifContainer" align="center">
+    <img id="gifImg" src="assets/jb-bo.gif" style="height:40%;width:40%"/>
 </div>
-
