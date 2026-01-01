@@ -6,5 +6,5 @@
 <p align="center">心。技。體</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karatejb&" alt="karatejb" /></p>
 <div id="gifContainer" align="center">
-    <img id="gifImg" src="assets/jb-bo.20250601.gif" style="height:80%;width:80%"/>
+    <img id="gifImg" src="assets/jb-btwist.gif" style="height:100%;width:100%"/>
 </div>
